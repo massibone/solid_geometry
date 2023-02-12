@@ -2,10 +2,7 @@ Draw a cylinde with python
 
 Surface Area of a Cylinder
 If we know the radius and height of the cylinder then we can calculate the surface area of a cylinder using the formula:
-
-
-
-Surface Area of a Cylinder = 2πr² + 2πrh 
+2πr² + 2πrh 
 (Where r is radius and h is the height 
 of the cylinder).
 
@@ -14,26 +11,15 @@ The amount of space inside the Cylinder
 is called as Volume. 
 If we know the height of a cylinder 
 then we can calculate the Volume of a cylinder using formula:
-
-Volume of a Cylinder = πr²h
-Surface Area of a Cylinder = 2πr² + 2πrh 
-(Where r is radius and h is the height 
-of the cylinder).
-
+πr²h
 
 The Lateral Surface Area of a Cylinder = 2πrh
 
-We can calculate the Top Or Bottom Surface Area of a Cylinder = πr²
 
 Python Program to find Volume & Surface Area of a Cylinder
 This Python program allows the user 
 to enter the value of a radius and height. 
-Using these values, this Python program 
-will calculate the Volume of a Cylinder, 
-Surface Area of a Cylinder, 
-Lateral Surface Area of a Cylinder, 
-Top Or Bottom Surface Area of a Cylinder 
-as per the formula.
+
 
 
 
